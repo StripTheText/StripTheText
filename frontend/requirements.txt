@@ -1,0 +1,16 @@
+# Backend Packages
+
+
+# Frontend Packages
+streamlit
+
+# Machine Learning Packages
+numpy
+scikit-learn
+pandas
+tensorflow
+torch
+huggingface
+transformers
+
+# Additional Packages
