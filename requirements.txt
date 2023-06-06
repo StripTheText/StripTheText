@@ -3,6 +3,7 @@
 
 # Frontend Packages
 streamlit
+streamlit-audiorecorder
 
 # Machine Learning Packages
 numpy
