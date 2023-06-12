@@ -9,7 +9,7 @@
 |   |-- pages
 |   |   |-- .gitkeep
 |   |   |-- 2_Demo.py
-|   |   |-- 3_Validation_Results.py
+|   |   |-- 3_Validation_Models.py
 |   |   |-- 4_Handbook.py
 |   |-- Dockerfile
 |   |-- enviroment.yml

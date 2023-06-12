@@ -1,3 +1,16 @@
+## Verwendete Datenquellen:
+https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset?select=test.csv
+
+https://www.kaggle.com/datasets/danielihenacho/amazon-reviews-dataset
+
+https://www.kaggle.com/datasets/fabiochiusano/medium-articles?resource=download
+
+https://www.kaggle.com/datasets/aishikai/yale-scientific-paper-summarization-dataset
+
+https://github.com/PedroBarcha/old-books-dataset/tree/master/groundtruth
+---
+## Mögliche Datenquellen
+
 ### BLOGBEITRÄGE
 https://www.kaggle.com/datasets/fabiochiusano/medium-articles
 https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm?ref=hackernoon.com
