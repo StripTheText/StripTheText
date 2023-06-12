@@ -1,0 +1,16 @@
+name: StripTheText_Frontend
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.11.0
+  - pip
+  - pip:
+      - python-dotenv
+      - pyperclip
+      - python-docx
+      - requests
+      - streamlit
+      - streamlit-audiorecorder
+      - websocket

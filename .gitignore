@@ -1,3 +1,5 @@
 .idea
 /venv
 /development/data/data_merged
+/frontend/.env
+/backend/.env

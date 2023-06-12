@@ -11,6 +11,7 @@
 |   |   |-- 2_Demo.py
 |   |   |-- 3_Validation_Models.py
 |   |   |-- 4_Handbook.py
+|   |-- .env-template
 |   |-- Dockerfile
 |   |-- enviroment.yml
 |   |-- Introduction.py
@@ -28,10 +29,19 @@ pip install -r requirements.txt
 conda install --file requirements.txt
 ```
 
+Conda setup full Frontend-Environment:
+```shell
+conda env create -f environment.yml
+```
+Activate the new environment:
+```shell
+conda activate StripTHeText_Frontend
+```
+
 ### Run the Frontend
 #### Run the Frontend directly
 ```shell
-python streamlit run Introduction.py
+streamlit run Introduction.py
 ```
 #### Run the Frontend with Docker
 ```shell

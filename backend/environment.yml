@@ -1,4 +1,4 @@
-name: StripTHeText - Frontend
+name: StripTheText_Backend
 
 channels:
   - defaults
@@ -7,8 +7,14 @@ dependencies:
   - python=3.11.0
   - pip
   - pip:
-    - streamlit
-    - streamlit-audiorecorder
-    - pyperclip
-    - python-docx
-    - openai-whisper
+      - asyncio
+      - uvicorn
+      - pandas
+      - fastapi
+      - python-dotenv
+      - tensorflow
+      - transformers
+      - pydantic
+      - websockets
+      - numpy
+      - openai-whisper
