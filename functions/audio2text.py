@@ -6,6 +6,7 @@ import os
 from audiorecorder import audiorecorder
 import streamlit as st
 
+
 # Define the function to convert audio to text
 @st.cache_data
 def fun_audio_to_text(
@@ -17,7 +18,7 @@ def fun_audio_to_text(
     """
     # Download the Open AI-Whisper Model
     whisper_model = whisper.load_model(
-        name="medium.en",
+        name="base.en",
         download_root=str(pathlib.Path.joinpath(pathlib.Path.cwd(), "models", "whisper")),
         in_memory=False
     )

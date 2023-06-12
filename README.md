@@ -43,7 +43,7 @@ After Pressing on the Demo Button, you will be redirected to the Frontend
 ![Step 5 screenshot](https://images.tango.us/workflows/ee7337e1-e909-45c3-8a57-6130643aa8c5/steps/7af2b30e-9952-4706-a2cb-7a14f1ef44fc/1db022a0-02fe-4801-859d-8b5338910a35.png?crop=focalpoint&fit=crop&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n)
 
 
-### 6. Text will be shown afer processing in the Text-Area
+### 6. Text will be shown after processing in the Text-Area
 ![Step 6 screenshot](https://images.tango.us/workflows/ee7337e1-e909-45c3-8a57-6130643aa8c5/steps/0b633521-a2f7-4b15-a900-d50e6d2154d1/c09592f1-882a-4cc9-9c46-7614d92c7a09.png?crop=focalpoint&fit=crop&fp-x=0.2675&fp-y=0.5366&fp-z=1.8688&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n)
 
 
