@@ -18,6 +18,7 @@ dependencies:
     - torch
     - transformers
     - datasets
+    - jupyter
     - huggingface
     - openai-whisper
     - pyperclip

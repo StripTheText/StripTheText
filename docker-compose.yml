@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  strip_the_text_backend:
+    image: tkister/strip_the_text_backend
+    ports:
+      - 8080:8080
+    restart: always
+
+  strip_the_text_frontend:
+    image: tkister/strip_the_text_frontend
+    ports:
+      - 80:80
+    restart: always
+    depends_on:
+      - strip_the_text_backend
