@@ -49,10 +49,10 @@ classify the different Texttypes independently.
 
 This project was created by the following people:
 
+* [Michel Medved - 9303634](https://github.com/mimed100)
 * [Tobias Kister - 9416513](https://github.com/tkister)
-* [Daniel Schmitz - ](https://github.com/dschmtz)
-* [Jan Neifeld - ](https://github.com/JanDN312)
-* [Michel Medved - ](https://github.com/mimed100)
+* [Jan Neifeld - 8722662](https://github.com/JanDN312)
+* [Daniel Schmitz - 6695185](https://github.com/dschmtz)
 
 ---
 
@@ -215,14 +215,14 @@ The following notebooks contain the code for the individual steps of the project
 
 - **[Dataset](data/dataset_builder.ipynb)**
 - **[Text Classification](notebooks/text_classification_train.ipynb)**
-- **[Text Commpression](notebooks/text_compression_train.ipynb)**
+- **[Text Compression](notebooks/text_compression_train.ipynb)**
 
 ---
 
 #### Application
 
-In order to run our application there are two options. The first option is to run the application through the provided
-Docker Images and the second option is to build the application through the single Github-Repositories.
+In order to run our application, there are two options. The first option is to run the application through the provided
+Docker Images, and the second option is to build the application through the single Github-Repositories.
 
 **Note:** Please note that the installation through the Docker Images is much easier and faster than the installation of
 the single Github-Repositories. That's why it is the preferred way to install the application.
@@ -269,14 +269,14 @@ git clone https://github.com/StripTheText/TextStrip-Frontend.git
 After cloning the repositories, you need to install the dependencies for both repositories. To do this, you can follow
 the upper installation guide, but please create a new environments for each repo.
 
-After installing the dependencies, you can run the application. To run it you need to start the backend first. To do so,
+After installing the dependencies, you can run the application. To run it, you need to start the backend first. To do so,
 use the following command, inside the corresponding environment:
 
 ```shell
 uvicorn main:app --host localhost --port 8080 --reload
 ```
 
-Once the Startup of the Backend is finished, you can start the Frontend. To do so, use the following command, inside of
+Once the Startup of the Backend is finished, you can start the Frontend. To do so, use the following command, inside 
 the corresponding environment:
 
 ```shell
@@ -304,7 +304,7 @@ address: [contact@tkister.de](mailto:contact@tkister.de)
 # Textstrip - Backend
 
 The Source Code of the Backend can be found
-here: [Textstrip - Backend](https://github.com/StripTheText/TextStrip-Backend). Further Information about the Backend
+here: [Textstrip—Backend](https://github.com/StripTheText/TextStrip-Backend). Further Information about the Backend
 and how it can be installed separately can be found in the README.md of the Backend.
 
 ---
@@ -312,5 +312,5 @@ and how it can be installed separately can be found in the README.md of the Back
 # Textstrip - Frontend
 
 The Source Code of the Frontend can be found
-here: [Textstrip - Frontend](https://github.com/StripTheText/TextStrip-Frontend). Further Information about the Frontend
+here: [Textstrip—Frontend](https://github.com/StripTheText/TextStrip-Frontend). Further Information about the Frontend
 and how it can be installed separately can be found in the README.md of the Frontend.
